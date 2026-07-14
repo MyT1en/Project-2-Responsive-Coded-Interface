@@ -1,0 +1,41 @@
+# Tien's Food Blog
+
+## Project Description
+I designed a food blog that showcases my favorite recipes and culinary experiences. The blog features a gallery of mouth-watering images, detailed recipe instructions, and a clean interface.
+
+## Intended User
+I designed this file for anyone who is interested in cooking and wants to explore new recipes. The blog provides different images for inspiration and a recipe on the bottom for cooking ideas.
+
+## User Goal
+Users should be able to navigate through the blog easily, view the gallery of images, and read the recipe instructions. The goal is to provide a seamless experience for users to discover and try out new dishes.
+
+## Inspiration Interfaces
+Bobby Flay's food network page inspired me to create a little about me on my food blog
+Behance's layout inspired me to create a carousel of images for inspiration.
+The NYT cooking page inspired me to create a recipe section on the bottom.
+
+## Design Choices
+Layout: An about me to talk about my passion for cooking and food, followed by a row of images displaying foods I've tried with one of my favorite recipes underneath.
+Color: I chose only two warm colors to make the blog feel cozy and inviting. I also used a white background to make the images pop and not distract from the content.
+Typography: I used a sans-serif font for the headings to give a modern and clean look, while using a serif font for the body text to enhance readability and provide a classic feel.
+Visual Hierarchy: I used larger font sizes for headings to create a clear visual hierarchy and guide users through the content. The images are displayed in a grid layout to create a visually appealing and organized presentation.
+Feedback states: I used hover effects on the navigation links to provide feedback to users when they interact with the interface.
+Responsive Design: I ensured that the blog is responsive and adapts to different screen sizes, providing a seamless experience across devices. Gallery images drop to a new row when on mobile.
+
+## Technologies Used
+- HTML
+- CSS
+- GitHub Pages
+
+## Credits
+https://www.w3schools.com/howto/howto_css_images_side_by_side.asp
+https://www.hungryhuy.com/banh-xeo-savory-vietnamese-crepes/
+
+## Inspiration Credit
+https://bobbyflay.com/
+https://cooking.nytimes.com/?eafs_enabled=false
+https://www.behance.net/
+
+## Future Improvements
+- Add more recipes and images to the gallery section to provide users with a wider variety of culinary experiences.
+- Add more pages to the blog.
